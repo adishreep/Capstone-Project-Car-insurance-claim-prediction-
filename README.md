@@ -1,6 +1,6 @@
 # Capstone-Project-Car-insurance-claim-prediction-
 
-Leveraging Data Analytics for Car Insurance Claim Prediction (Capstone Project)
+Leveraging Data Analytics for Car Insurance Claim Prediction
 
 Problem Statement: Car insurance companies face financial risks when customers make insurance claims within a short duration. Identifying such customers beforehand can help companies to take preventive measures and minimize losses. To address this, predictive model using machine learning techniques in python is built, which can forecast whether a customer is going to claim insurance within short period (six months) or not.
 
